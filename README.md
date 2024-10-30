@@ -7,3 +7,4 @@ Building Machine Learning models
 5. XGBoost model - Telecom Churn Dataset
 6. Logistic Regression, Decision Tree Classifier, Random Forest Classifier and XGBoost, SMOTE
    and ADASYN - Credit Card dataset
+NOTE: Could not upload creditcard.csv due to large file size.
